@@ -46,6 +46,10 @@ for (0 => int i; i < BMelody.cap(); i++)
     noteLength::eighth => BRhythm[i];
 }
 
+// Let's make sure we have some A's in movement B though
+69 => BMelody[3];
+69 => BMelody[10];
+
 // fill array CMelody with random notes, all in the octave E3 - E4
 // simultaneously, fill CRhythm with random note durations
 for (0 => int i; i < CMelody.cap(); i++)
