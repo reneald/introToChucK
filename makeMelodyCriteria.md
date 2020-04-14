@@ -2,11 +2,11 @@
 - [x] Use at least one array.
 - [] Creative use of musical sections, tempi, and registers.
 - [x] Use comments in your code.
-- [] Use the pan function of a Pan2 UGen at least once.
+- [x] Use the pan function of a Pan2 UGen at least once.
 - [x] Use at least one variable (int, float, etc.).
-- [] Use at least one "if" statement.
-- [] The composition should be 30 seconds in length.
-- [] The program should run without hanging.
+- [x] Use at least one "if" statement.
+- [x] The composition should be 30 seconds in length.
+- [x] The program should run without hanging.
 - [x] Use any variant of Math.random( ) at least once
 - [x] Use Std.mtof( ) at least once.
 - [x] Use at least one "for" or "while" loop.
